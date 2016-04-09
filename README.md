@@ -275,3 +275,17 @@ For more information on AngularJS please check out http://angularjs.org/
 # front_angular1.5
 front_angular1.5
 >>>>>>> branch 'master' of https://github.com/leesangbin/front_angular1.5.git
+
+
+
+
+
+
+git clone  https://github.com/angular/quickstart
+npm install
+npm start
+
+
+
+
+
